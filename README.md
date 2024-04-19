@@ -5,6 +5,7 @@
 
 
 # Notes
+本项目为斯坦福大学自动驾驶系列课程，包含自动驾驶介绍，环境状态估计，运动规划等内容
 
 for China, downloading is so slow, so i transfer this repo to Coding.net. So i suggest you turn to this link and git clone, maybe helps a lot.
 
